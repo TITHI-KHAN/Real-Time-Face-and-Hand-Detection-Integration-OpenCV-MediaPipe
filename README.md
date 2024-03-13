@@ -1,5 +1,9 @@
 # Real-Time-Face-and-Hand-Detection-Integration-OpenCV-MediaPipe
 
+### Combines both OpenCV and MediaPipe for face and hand gesture detection.
+### Employs the Haar cascade classifier in OpenCV for face detection.
+### Utilizes the MediaPipe Hands module for hand gesture detection.
+
 This Python script combines the detection of both face and hand gestures using OpenCV and MediaPipe.
 
 Here's a breakdown of what the script does:
