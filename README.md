@@ -1,5 +1,20 @@
 # Real-Time-Face-and-Hand-Detection-Integration-OpenCV-MediaPipe
 
+## To run the code, please either use "Visual Studio" or "Jupyter Notebook from Anaconda Navigator".
+
+### For the project video, please check the "Project Video" file. Thank you.
+
+![3_1](https://github.com/TITHI-KHAN/Real-Time-Face-and-Hand-Detection-Integration-OpenCV-MediaPipe/assets/65033964/884f9e03-b9b7-468f-9656-d5f1e964ac40)
+
+![3_2](https://github.com/TITHI-KHAN/Real-Time-Face-and-Hand-Detection-Integration-OpenCV-MediaPipe/assets/65033964/02f68ce8-8177-4e82-b595-50f79a2d25c6)
+
+![3_3](https://github.com/TITHI-KHAN/Real-Time-Face-and-Hand-Detection-Integration-OpenCV-MediaPipe/assets/65033964/a2357f8a-0c4a-4e38-87f9-722624dbaa9c)
+
+![3_4](https://github.com/TITHI-KHAN/Real-Time-Face-and-Hand-Detection-Integration-OpenCV-MediaPipe/assets/65033964/fcec1b1a-08e7-4bf5-b2f9-b48f4ecec5d7)
+
+![3_5](https://github.com/TITHI-KHAN/Real-Time-Face-and-Hand-Detection-Integration-OpenCV-MediaPipe/assets/65033964/5d281f09-01ee-43dd-ad5d-4f9409230e6d)
+
+
 ### Combines both OpenCV and MediaPipe for face and hand gesture detection.
 ### Employs the Haar cascade classifier in OpenCV for face detection.
 ### Utilizes the MediaPipe Hands module for hand gesture detection.
